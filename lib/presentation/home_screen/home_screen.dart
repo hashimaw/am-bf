@@ -116,7 +116,6 @@ final HomeScreenController homeScreenController = Get.put(HomeScreenController()
             SizedBox(
               height: 30,
             ),
-            for(int i=0; i<2;i++)
             SingleChildScrollView(
               child: Column(
                 children: [
